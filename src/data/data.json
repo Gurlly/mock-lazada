@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "Organic Mens 100% Cotton Round Neck T-Shirt",
+        "price": "169.00",
+        "src": "https://img.lazcdn.com/g/p/689acb04be4b06155867c4fc51950ec7.jpg_400x400q80.jpg_.webp",
+        "ratings": 4
+    },
+    {
+        "id": 2,
+        "name": "Organic Mens 100% Sando Plain Tank",
+        "price": "129.00",
+        "src": "https://img.lazcdn.com/g/p/0d04c0f710e37f1bcca864fa850850a4.jpg_400x400q80.jpg_.webp",
+        "ratings": 2
+    },
+    {
+        "id": 3,
+        "name": "Panasonic Corded Telephone KX-TS500MX Black",
+        "price": "790.00",
+        "src": "https://img.lazcdn.com/g/p/deff2687f7e80681a18c9fd089e47426.jpg_400x400q80.jpg_.webp",
+        "ratings": 5
+    },
+    {
+        "id": 4,
+        "name": "Spigen Essential F207 Quick Charge 3.0 Dual Port USB Wall Charger",
+        "price": "250.00",
+        "src": "https://img.lazcdn.com/g/p/d59c934b33835fda0a07ba89bf988656.jpg_400x400q80.jpg_.webp",
+        "ratings": 3
+    },
+    {
+        "id": 5,
+        "name": "Organic Ladies 100% Cotton Round Neck T-Shirt",
+        "price": "99.00",
+        "src": "https://img.lazcdn.com/g/p/d36f17386b4aa5a6b7be96cf77797e9e.jpg_400x400q80.jpg_.webp",
+        "ratings": 2
+    },
+    {
+        "id": 6,
+        "name": "Organic Mens 100% Cotton Sando Combi Tank",
+        "price": "139.00",
+        "src": "https://img.lazcdn.com/g/p/5b079608597c08f45bdca2dc7a39f0a2.png_400x400q80.png_.webp",
+        "ratings": 5
+    },
+    
+    {
+        "id": 7,
+        "name": "2024 men-Shirt Loose Couples Shirts Cotton T-Shirt",
+        "price": "69.00",
+        "src": "https://img.lazcdn.com/g/p/5b079608597c08f45bdca2dc7a39f0a2.png_400x400q80.png_.webp",
+        "ratings": 3
+    },
+    {
+        "id": 8,
+        "name": "I Home Fast Boiling Electric Kettle",
+        "price": "1299.00",
+        "src": "https://img.lazcdn.com/g/p/0cf52f048ab123c9edb2c0fe1d0ac191.jpg_200x200q80.jpg_.webp",
+        "ratings": 4
+    },
+    {
+        "id": 9,
+        "name": "250ml Vanilla Lace Chocolate Perfume",
+        "price": "400.00",
+        "src": "https://img.lazcdn.com/g/p/2825459d42c3d0e0533b0e85e256de56.jpg_200x200q80.jpg_.webp",
+        "ratings": 5
+    },
+    {
+        "id": 10,
+        "name": "Tri-Town TWS Air31 Earphone Wireless",
+        "price": "250.00",
+        "src": "https://img.lazcdn.com/g/p/e404f5ed1cddbc3528e5a3377b6bb6c0.jpg_200x200q80.jpg_.webp",
+        "ratings": 5
+    },
+    {
+        "id": 11,
+        "name": "Mini Kawaii RGB Speake With 1 to 2 Microphones",
+        "price": "550.00",
+        "src": "https://img.lazcdn.com/g/p/5a077fa0d0b7b2129e285011754081d0.jpg_200x200q80.jpg_.webp",
+        "ratings": 2
+    },
+    {
+        "id": 12,
+        "name": "Wenner 14 Doors Wardrobe Cabiner",
+        "price": "652.92",
+        "src": "https://img.lazcdn.com/g/p/653847b14172b52913ea7e649439cd65.png_200x200q80.png_.webp",
+        "ratings": 5
+    }
+]
